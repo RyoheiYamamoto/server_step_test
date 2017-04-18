@@ -1,0 +1,5 @@
+- [ ] `STEP0`ブランチを作成してcheckoutする
+- [ ] `HTTPServer.java`を作成する
+- [ ] RFCやJavaDocなどを調査し、HTTPサーバー実装に使いそうなパッケージを見つける。`HTTPServer.java`内にコメントでパッケージ名をメモする（1つでOK）
+- [ ] push & commitし、Pull Requestを作る
+- [ ] PRビルドが通ることを確認し、Assigneesにレビュワーを指定してレビューを依頼する
